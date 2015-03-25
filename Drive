@@ -1,3 +1,4 @@
+//Gabriel Perez Ch9 HW
 var text = "'I'm the cook,' he said, 'it's my job.'";
 //console.log(text.replace(/[/\W\]/g, "a"));
-console.log(text.replace(/\W'|'\W/g, "B"));
+console.log(text.replace(/\W'|'\W/g, ""));
